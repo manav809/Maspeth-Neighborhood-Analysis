@@ -37,8 +37,14 @@ neighborhood due to the following
 statistics and when compared to the
 national averages.
 ### AirBnb Data Analysis
-#### - Price Analysis of AirBnb Listings in Maspeth
+#### - Price Analysis of AirBnb Listings 
 ![image](https://user-images.githubusercontent.com/73366731/99194606-717ecd80-274e-11eb-8e24-f00cdfe81e66.png)![image](https://user-images.githubusercontent.com/73366731/99194660-cde1ed00-274e-11eb-839e-213348327535.png)
 
 When looking at the box and whisker plot is might be hard to see due to the many listings there are so when the code is run the Queens Borough as a whole generally beats Maspeth in terms of price when listing out Mean, Max, Min, and Median prices. The mean price in Maspeth is 83 dollars, the max is 245, the minimum is 11, and the median price is 65. On the other hand, when looking at Queens The mean is 99.51, the max is 10,000, the minimum is 10, the median is 75 dollars. In terms of price Queens as a hold holds for higher prices than the specific neighborhood of Maspeth.
+
+#### - Availability Analysis of AirBnb Listings 
+
+
+These box plots compare the availability of airbnb listings between Maspeth and Queens  show that Maspeth has the mean availability of 187.50, max of 365, minimum of 0, and a median of 185.5 while the average availability for Queens  has a mean of 144.45, max of 365, min of 0, and a median of 98.0. Generally, Maspeth is greater in terms of availability.
+
 
