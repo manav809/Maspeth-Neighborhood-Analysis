@@ -25,5 +25,14 @@ and buses to get to their destination. If one wants to get to the railway then t
 Q18, which would take them to the Woodside railway station.
 
 ### Safety 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In terms of safety and crime,
+Maspeth is quite safe. Murder, rape,
+robbery, assault, burglary, theft, and
+vehicle theft do not even cross the list
+and are not even applicable. On the
+other hand, there are about 326 violent
+crimes and 1,229 property crimes.
+Overall, it can be deemed as a safe
+neighborhood due to the following
+statistics and when compared to the
+national averages.
