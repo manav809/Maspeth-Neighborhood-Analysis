@@ -60,3 +60,6 @@ When comparing the number of reviews for listings in Maspeth had, the mean was 2
 
 #### - Conclusion
 When looking at Maspeth, it represents the Queens neighborhood quite well because of the fact that the number are actually quite similar despite having many outliers shown in the box plots. Moving on, the reason for this is because most neighborhoods in Queens are actually known for having low crime rates, which is suggestive of Maspeth because of its low crime rate and other characteristics shown from HC2 and HC3.  Essentially, Maspeth wasn’t so different than Queens through the data extrapolated form the box plots.
+<d1>
+<iframe src="HC9.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</d1>
