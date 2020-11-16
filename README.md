@@ -36,15 +36,23 @@ Overall, it can be deemed as a safe
 neighborhood due to the following
 statistics and when compared to the
 national averages.
-### AirBnb Data Analysis
-#### - Price Analysis of AirBnb Listings 
+### AirBnB Data Analysis: Queens vs. Maspeth
+#### - Price Analysis of AirBnB Listings 
 ![image](https://user-images.githubusercontent.com/73366731/99194606-717ecd80-274e-11eb-8e24-f00cdfe81e66.png)![image](https://user-images.githubusercontent.com/73366731/99194660-cde1ed00-274e-11eb-839e-213348327535.png)
 
 When looking at the box and whisker plot is might be hard to see due to the many listings there are so when the code is run the Queens Borough as a whole generally beats Maspeth in terms of price when listing out Mean, Max, Min, and Median prices. The mean price in Maspeth is 83 dollars, the max is 245, the minimum is 11, and the median price is 65. On the other hand, when looking at Queens The mean is 99.51, the max is 10,000, the minimum is 10, the median is 75 dollars. In terms of price Queens as a hold holds for higher prices than the specific neighborhood of Maspeth.
 
-#### - Availability Analysis of AirBnb Listings 
+#### - Availability Analysis of AirBnB Listings 
 
 
 These box plots compare the availability of airbnb listings between Maspeth and Queens  show that Maspeth has the mean availability of 187.50, max of 365, minimum of 0, and a median of 185.5 while the average availability for Queens  has a mean of 144.45, max of 365, min of 0, and a median of 98.0. Generally, Maspeth is greater in terms of availability.
 
+#### - Minimum Nights Analysis of AirBnB Listings
+When comparing Minimum Nights Maspeth has a mean of 5.27, a max of 31, minimum of 1, and a median of 2.0, On the other hand, Queens as a borough has mean of 5.18, maximum of 500, minimum of 1, and a median of 2. Essentially, this data reveals that Maspeth is a fair representation of the average Queens’ Minimum Nights due to the similarity in numbers.
 
+#### - Number of Reviews Comparison based on AirBnB Listings
+
+When comparing the number of reviews for listings in Maspeth had, the mean was 22.63, the max was 139, the min was 0, and the median was 7.5. On the other hand, when looking at the number of reviews in Queens as a while the mean was 27.7, the max was 629, the min was 0, and the median was 7.0. Generally, the average listing in Queens as a whole had more reviews than a listing in Maspeth.
+
+#### - Conclusion
+When looking at Maspeth, it represents the Queens neighborhood quite well because of the fact that the number are actually quite similar despite having many outliers shown in the box plots. Moving on, the reason for this is because most neighborhoods in Queens are actually known for having low crime rates, which is suggestive of Maspeth because of its low crime rate and other characteristics shown from HC2 and HC3.  Essentially, Maspeth wasn’t so different than Queens through the data extrapolated form the box plots.
