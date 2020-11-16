@@ -48,6 +48,7 @@ When looking at the box and whisker plot is might be hard to see due to the many
 These box plots compare the availability of airbnb listings between Maspeth and Queens  show that Maspeth has the mean availability of 187.50, max of 365, minimum of 0, and a median of 185.5 while the average availability for Queens  has a mean of 144.45, max of 365, min of 0, and a median of 98.0. Generally, Maspeth is greater in terms of availability.
 
 #### - Minimum Nights Analysis of AirBnB Listings
+![image](https://user-images.githubusercontent.com/73366731/99265432-b0189480-27ef-11eb-9545-23bcd7d9e161.png)![image](https://user-images.githubusercontent.com/73366731/99265458-b575df00-27ef-11eb-983c-bfa183135883.png)
 
 When comparing Minimum Nights Maspeth has a mean of 5.27, a max of 31, minimum of 1, and a median of 2.0, On the other hand, Queens as a borough has mean of 5.18, maximum of 500, minimum of 1, and a median of 2. Essentially, this data reveals that Maspeth is a fair representation of the average Queens’ Minimum Nights due to the similarity in numbers.
 
