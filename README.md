@@ -38,7 +38,7 @@ statistics and when compared to the
 national averages.
 ## AirBnB Data Analysis: Queens vs. Maspeth
 ### - Price Analysis of AirBnB Listings 
-![image](https://user-images.githubusercontent.com/73366731/99194606-717ecd80-274e-11eb-8e24-f00cdfe81e66.png)![image](https://user-images.githubusercontent.com/73366731/99194660-cde1ed00-274e-11eb-839e-213348327535.png)
+![image](https://user-images.githubusercontent.com/73366731/99417923-75cef600-28c8-11eb-9859-867bf80f4da9.png)![image](https://user-images.githubusercontent.com/73366731/99417943-7a93aa00-28c8-11eb-8ed6-ffa438e697b0.png)
 
 When looking at the box and whisker plot is might be hard to see due to the many listings there are so when the code is run the Queens Borough as a whole generally beats Maspeth in terms of price when listing out Mean, Max, Min, and Median prices. The mean price in Maspeth is 83 dollars, the max is 245, the minimum is 11, and the median price is 65. On the other hand, when looking at Queens The mean is 99.51, the max is 10,000, the minimum is 10, the median is 75 dollars. In terms of price Queens as a hold holds for higher prices than the specific neighborhood of Maspeth.
 
