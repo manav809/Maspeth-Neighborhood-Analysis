@@ -53,7 +53,7 @@ These box plots compare the availability of airbnb listings between Maspeth and 
 When comparing Minimum Nights Maspeth has a mean of 5.27, a max of 31, minimum of 1, and a median of 2.0, On the other hand, Queens as a borough has mean of 5.18, maximum of 500, minimum of 1, and a median of 2. Essentially, this data reveals that Maspeth is a fair representation of the average Queens’ Minimum Nights due to the similarity in numbers.
 
 ### - Number of Reviews Comparison based on AirBnB Listings
-![image](https://user-images.githubusercontent.com/73366731/99417251-b67a3f80-28c7-11eb-8d1b-2ba4cad4d0a9.png)![image](https://user-images.githubusercontent.com/73366731/99417268-ba0dc680-28c7-11eb-81b0-e225a8241ff6.png)
+![image](https://user-images.githubusercontent.com/73366731/99417600-183aa980-28c8-11eb-94d0-080d38de0983.png)![image](https://user-images.githubusercontent.com/73366731/99417621-1c66c700-28c8-11eb-89a4-a03cd97cb726.png)
 
 
 
