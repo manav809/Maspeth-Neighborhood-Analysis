@@ -2,7 +2,7 @@
 
 Maspeth is a town located between Elmhurst, Woodside, and Ridgewood.
 
-![image](https://user-images.githubusercontent.com/73366731/99187450-ac6c0b80-2724-11eb-848f-07da32eff328.png)
+![image](https://user-images.githubusercontent.com/73366731/99415700-17a11380-28c6-11eb-86c7-24349a9268f6.png)
 
 ### Demographics
 
