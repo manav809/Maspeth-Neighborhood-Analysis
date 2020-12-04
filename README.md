@@ -10,7 +10,7 @@ Maspeth is a town located between Elmhurst, Woodside, and Ridgewood.
 
 - When it came to the statistics related to place of birth, 42.4% were European, 21.02% Asian, 1.45% African, 34.71% Latin American, and 0.42% North American. Overall, the median age was 37.7 years old. The population by age shows that there are 13.1% of people under 9 years old, 12% of people between 10 to 19, 12.48% of people between 20 to 29,  16.22% of people between 3239, 13.42% of people between 40 to 49, 14.19% of people between 50 to 59, 9.69% of people between 60 to 69, .99% of people between 70 to 79, 3.92% of people 80 and above. 
 
--Also, the population constitutes for 48.74% men and 51.26% female. 
+- Also, the population constitutes for 48.74% men and 51.26% female. 
 
 - Moving on, for the area of Maspeth the data shows that 13.6% have attended less than a high school, 33.61% have attended high school, 24.47% have gone to some college, 19.06% have a bachelor’s degree, and 9.26% have done post grad studies. 
 
